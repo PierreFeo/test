@@ -12,6 +12,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println(getString(R.string.hello))
         getColor(R.color.black)
+        getColor(R.color.white)
+        getString(R.string.app_name)
     }
 
 }
