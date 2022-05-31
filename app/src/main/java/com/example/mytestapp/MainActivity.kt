@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         println(getString(R.string.hello))
         getColor(R.color.black)
         getColor(R.color.white)
-        getString(R.string.app_name)
+
     }
 
 }
